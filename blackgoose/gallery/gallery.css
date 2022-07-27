@@ -1,0 +1,36 @@
+body {
+  background-color: #faffb5;
+  margin: 0 10%;
+  font-family: sans-serif;
+  }
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #c49f6a;
+}
+a:visited {
+  color: #9e8055;
+}
+a:focus, a:hover {
+  color: #e6ae60;
+  background-color: #fff;
+}
+a:active {
+  color: #c2924f;
+  background-color: #fff;
+}
+
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid #57b1dc;
+  margin-top: 30px;
+}
+
+h2 {
+  color: #d1633c;
+  font-size: 1em;
+}
