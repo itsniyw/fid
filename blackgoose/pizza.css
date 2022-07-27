@@ -1,0 +1,22 @@
+body {
+   background-color: #faffb5;
+      ol, ul { 
+     list-style-type: none;
+      }
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #c49f6a;
+}
+a:visited {
+  color: #9e8055;
+}
+a:focus, a:hover {
+  color: #e6ae60;
+  background-color: #fff;
+}
+a:active {
+  color: #c2924f;
+  background-color: #fff;
+}
