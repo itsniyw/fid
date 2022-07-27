@@ -1,0 +1,33 @@
+body {
+	margin: 2em 6em;  font-family: Georgia, "Times New Roman", Times, serif;  background-color: #c9fff8;}  h1, h2 {
+	color: #399;
+}
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #5c968f;
+}
+a:visited {
+  color: #32665f;
+}
+a:focus, a:hover {
+  color: #3ac9b7;
+  background-color: #fff;
+}
+a:active {
+  color: #27877b;
+  background-color: #fff;
+}
+
+h1 {
+	font-size: 1.5em;
+}
+
+h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 1em;
+}  
+small {
+	color: #999;
+}
